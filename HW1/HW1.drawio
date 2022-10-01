@@ -1,9 +1,30 @@
-<mxfile host="app.diagrams.net" modified="2022-10-01T08:25:13.353Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="8GOHZ4kNQ-2g6euU3JIL" version="20.4.0" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-10-01T08:43:43.284Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="b2JEmjVBHGpkazW69Lrg" version="20.4.0" type="github" pages="2">
   <diagram id="RpsQzSNQOiCnJd_axAOH" name="交響樂團資料庫">
-    <mxGraphModel dx="782" dy="436" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1280" dy="513" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="nQKAfLNm-9qSimOXwwPb-7" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nQKAfLNm-9qSimOXwwPb-1" target="nQKAfLNm-9qSimOXwwPb-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nQKAfLNm-9qSimOXwwPb-1" value="CONCERT SEASON" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="590" y="40" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="nQKAfLNm-9qSimOXwwPb-2" value="CONCERT" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="590" y="130" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="nQKAfLNm-9qSimOXwwPb-3" value="COMPOSITION" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="740" y="230" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="nQKAfLNm-9qSimOXwwPb-4" value="CONDUCTOR" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="480" y="230" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="nQKAfLNm-9qSimOXwwPb-5" value="SOLOIST" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="740" y="320" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="nQKAfLNm-9qSimOXwwPb-6" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="760" y="30" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
