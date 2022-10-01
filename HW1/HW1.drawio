@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-10-01T11:20:29.795Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="W6AAN6__tqkswbg-ZwAl" version="20.4.0" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-10-01T11:23:24.833Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="5pJIMvpXoSMgfdOW5uTf" version="20.4.0" type="github" pages="3">
   <diagram id="RpsQzSNQOiCnJd_axAOH" name="交響樂團資料庫1">
-    <mxGraphModel dx="1413" dy="727" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1413" dy="670" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -136,10 +136,10 @@
         <mxCell id="nQKAfLNm-9qSimOXwwPb-79" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="nQKAfLNm-9qSimOXwwPb-45" target="nQKAfLNm-9qSimOXwwPb-32">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="nQKAfLNm-9qSimOXwwPb-45" value="CONCERT" style="shape=ext;margin=3;double=1;whiteSpace=wrap;html=1;align=center;aspect=fixed;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+        <mxCell id="nQKAfLNm-9qSimOXwwPb-45" value="CONCERT" style="whiteSpace=wrap;html=1;align=center;aspect=fixed;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="140" y="480.91" width="110" height="44" as="geometry" />
         </mxCell>
-        <mxCell id="nQKAfLNm-9qSimOXwwPb-46" value="&lt;span style=&quot;border-bottom: 1px dotted&quot;&gt;Concert_Number&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;align=center;aspect=fixed;labelBackgroundColor=none;fillColor=#dae8fc;strokeColor=#6c8ebf;shadow=0;sketch=0;" vertex="1" parent="1">
+        <mxCell id="nQKAfLNm-9qSimOXwwPb-46" value="&lt;span style=&quot;border-bottom: 1px dotted&quot;&gt;Concert_Number&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;align=center;aspect=fixed;labelBackgroundColor=none;fillColor=#dae8fc;strokeColor=#6c8ebf;shadow=0;sketch=0;fontStyle=4;" vertex="1" parent="1">
           <mxGeometry x="280" y="409.73" width="120" height="48" as="geometry" />
         </mxCell>
         <mxCell id="nQKAfLNm-9qSimOXwwPb-47" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="nQKAfLNm-9qSimOXwwPb-1" target="nQKAfLNm-9qSimOXwwPb-10">
