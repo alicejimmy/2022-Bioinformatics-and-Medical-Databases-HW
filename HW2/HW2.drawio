@@ -1,9 +1,87 @@
-<mxfile host="app.diagrams.net" modified="2022-10-22T14:32:45.439Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="yvxDHz59qB1VtUYDMUSX" version="20.4.0" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-10-22T16:10:57.865Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="v7X8DQ7lxxu0UBdtAj5T" version="20.4.0" type="github" pages="2">
   <diagram id="w4VHGzYsdSl-hZFod0cc" name="交響樂團資料庫">
     <mxGraphModel dx="823" dy="459" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="hCQ-R2_GtDcml7rR57lE-22" value="&lt;span style=&quot;background-color: rgb(248, 206, 204);&quot;&gt;CONCERT SEASON&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="200" y="250" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hCQ-R2_GtDcml7rR57lE-25" value="&lt;u&gt;Concert_Number&lt;/u&gt;" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="200" y="340" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hCQ-R2_GtDcml7rR57lE-26" value="&lt;span style=&quot;background-color: rgb(248, 206, 204);&quot;&gt;CONCERT&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="200" y="310" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hCQ-R2_GtDcml7rR57lE-27" value="Month" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="200" y="400" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hCQ-R2_GtDcml7rR57lE-28" value="&lt;span style=&quot;background-color: rgb(212, 225, 245);&quot;&gt;Concert_Date of CONCERT&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="200" y="370" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hCQ-R2_GtDcml7rR57lE-29" value="Day" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="300" y="400" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hCQ-R2_GtDcml7rR57lE-30" value="Year" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="400" y="400" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hCQ-R2_GtDcml7rR57lE-31" value="Time" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="500" y="400" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hCQ-R2_GtDcml7rR57lE-33" value="&lt;span style=&quot;border-bottom: 1px dotted&quot;&gt;&lt;u&gt;Concert_Number&lt;/u&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="600" y="400" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hCQ-R2_GtDcml7rR57lE-35" value="&lt;u&gt;Month&lt;/u&gt;" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="200" y="280" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hCQ-R2_GtDcml7rR57lE-36" value="&lt;u&gt;Day&lt;/u&gt;" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="300" y="280" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hCQ-R2_GtDcml7rR57lE-37" value="&lt;u&gt;Year&lt;/u&gt;" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="400" y="280" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hCQ-R2_GtDcml7rR57lE-38" value="&lt;span style=&quot;background-color: rgb(248, 206, 204);&quot;&gt;CONDUCTOR&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="200" y="550" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hCQ-R2_GtDcml7rR57lE-39" value="&lt;u&gt;Conductor_ID&lt;/u&gt;" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="200" y="580" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hCQ-R2_GtDcml7rR57lE-40" value="Conductor_Name" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="300" y="580" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hCQ-R2_GtDcml7rR57lE-42" value="&lt;span style=&quot;background-color: rgb(248, 206, 204);&quot;&gt;COMPOSITION&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="200" y="430" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hCQ-R2_GtDcml7rR57lE-43" value="&lt;u&gt;Composer_Name&lt;/u&gt;" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="200" y="460" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hCQ-R2_GtDcml7rR57lE-44" value="&lt;u&gt;Composition_Name&lt;/u&gt;" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="300" y="460" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hCQ-R2_GtDcml7rR57lE-48" value="Movement_Number" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="200" y="520" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hCQ-R2_GtDcml7rR57lE-49" value="&lt;span style=&quot;background-color: rgb(212, 225, 245);&quot;&gt;Movement_ID&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="200" y="490" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hCQ-R2_GtDcml7rR57lE-50" value="Movement_Name" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="300" y="520" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hCQ-R2_GtDcml7rR57lE-55" value="&lt;span style=&quot;border-bottom: 1px dotted&quot;&gt;&lt;u&gt;Composer_Name&lt;/u&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="400" y="520" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hCQ-R2_GtDcml7rR57lE-56" value="&lt;span style=&quot;border-bottom: 1px dotted&quot;&gt;&lt;u&gt;Composition_Name&lt;/u&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="500" y="520" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hCQ-R2_GtDcml7rR57lE-57" value="&lt;span style=&quot;background-color: rgb(248, 206, 204);&quot;&gt;SOLOIST&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="200" y="610" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hCQ-R2_GtDcml7rR57lE-58" value="&lt;u&gt;Soloist_ID&lt;/u&gt;" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="200" y="640" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hCQ-R2_GtDcml7rR57lE-59" value="Soloist_Name" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="300" y="640" width="100" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
