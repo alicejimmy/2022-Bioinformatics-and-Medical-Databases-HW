@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-23T14:56:26.456Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="A8uHHZ9wHJ_LOFGzAfLl" version="20.5.1" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-10-23T15:00:46.237Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="2Il2pmp7iiheb-MNb49w" version="20.5.1" type="github" pages="3">
   <diagram id="w4VHGzYsdSl-hZFod0cc" name="交響樂團資料庫1">
     <mxGraphModel dx="1117" dy="623" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -359,7 +359,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="SJy9jhn3qPyUU2WQi-D4" name="校務教務資料庫1">
-    <mxGraphModel dx="1117" dy="623" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="920" dy="513" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -433,22 +433,49 @@
           <mxGeometry x="200" y="460" width="180" height="30" as="geometry" />
         </mxCell>
         <mxCell id="rv79OY0GDuiCRYxSpz4N-8" value="&lt;span style=&quot;border-bottom: 1px dotted&quot;&gt;&lt;u&gt;prof-id&lt;/u&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="200" y="490" width="130" height="30" as="geometry" />
+          <mxGeometry x="330" y="490" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="rv79OY0GDuiCRYxSpz4N-9" value="&lt;span style=&quot;border-bottom: 1px dotted&quot;&gt;&lt;u&gt;crs-id&lt;/u&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="330" y="490" width="130" height="30" as="geometry" />
+          <mxGeometry x="200" y="490" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="rv79OY0GDuiCRYxSpz4N-10" value="&lt;span style=&quot;background-color: rgb(213, 232, 212);&quot;&gt;COURSE and&amp;nbsp;&amp;nbsp;STUDENT&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="200" y="550" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="rv79OY0GDuiCRYxSpz4N-11" value="&lt;span style=&quot;border-bottom: 1px dotted&quot;&gt;&lt;u&gt;stud-id&lt;/u&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="200" y="580" width="130" height="30" as="geometry" />
+          <mxGeometry x="460" y="580" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="rv79OY0GDuiCRYxSpz4N-12" value="&lt;span style=&quot;border-bottom: 1px dotted&quot;&gt;&lt;u&gt;crs-id&lt;/u&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="330" y="580" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="rv79OY0GDuiCRYxSpz4N-13" value="grade" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="460" y="580" width="130" height="30" as="geometry" />
+          <mxGeometry x="200" y="580" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="14Kh5Pco2t7U9SZASnXC-1" value="&lt;span style=&quot;background-color: rgb(212, 225, 245);&quot;&gt;stud-email&amp;nbsp;of&amp;nbsp; STUDENT&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="200" y="640" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="14Kh5Pco2t7U9SZASnXC-2" value="&lt;span style=&quot;border-bottom: 1px dotted&quot;&gt;&lt;u&gt;stud-id&lt;/u&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="330" y="670" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="14Kh5Pco2t7U9SZASnXC-4" value="stud-email&lt;br/&gt;" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="200" y="670" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="14Kh5Pco2t7U9SZASnXC-5" value="&lt;span style=&quot;background-color: rgb(213, 232, 212);&quot;&gt;COURSE,&amp;nbsp; STUDENT and&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: rgb(213, 232, 212);&quot;&gt;PROFESSOR&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="200" y="730" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="14Kh5Pco2t7U9SZASnXC-8" value="final-eval" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="330" y="760" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="14Kh5Pco2t7U9SZASnXC-9" value="mid-eval&lt;br/&gt;" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="200" y="760" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="14Kh5Pco2t7U9SZASnXC-10" value="&lt;span style=&quot;border-bottom: 1px dotted&quot;&gt;&lt;u&gt;stud-id&lt;/u&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="590" y="760" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="14Kh5Pco2t7U9SZASnXC-11" value="&lt;span style=&quot;border-bottom: 1px dotted&quot;&gt;&lt;u&gt;crs-id&lt;/u&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="460" y="760" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="14Kh5Pco2t7U9SZASnXC-12" value="&lt;span style=&quot;border-bottom: 1px dotted&quot;&gt;&lt;u&gt;prof-id&lt;/u&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="720" y="760" width="130" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
