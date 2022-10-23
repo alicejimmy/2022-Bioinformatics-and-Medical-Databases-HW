@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-23T14:28:05.999Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="Aw_kUAlcPoXM-4Co5e6x" version="20.5.1" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-10-23T14:32:29.963Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="pXP1sp23i-6sTqztYYAJ" version="20.5.1" type="github" pages="3">
   <diagram id="w4VHGzYsdSl-hZFod0cc" name="交響樂團資料庫1">
     <mxGraphModel dx="1117" dy="623" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -82,17 +82,8 @@
         <mxCell id="hCQ-R2_GtDcml7rR57lE-59" value="Soloist_Name" style="whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="390" y="534" width="130" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="hCQ-R2_GtDcml7rR57lE-60" value="&lt;span style=&quot;border-bottom: 1px dotted&quot;&gt;Month&lt;/span&gt;" style="whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
-          <mxGeometry x="390" y="234" width="130" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="hCQ-R2_GtDcml7rR57lE-61" value="&lt;span style=&quot;border-bottom: 1px dotted&quot;&gt;Day&lt;/span&gt;" style="whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
-          <mxGeometry x="520" y="234" width="130" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="hCQ-R2_GtDcml7rR57lE-62" value="&lt;span style=&quot;border-bottom: 1px dotted&quot;&gt;Year&lt;/span&gt;" style="whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
-          <mxGeometry x="650" y="234" width="130" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="hCQ-R2_GtDcml7rR57lE-63" value="&lt;span style=&quot;border-bottom: 1px dotted&quot;&gt;Conductor_ID&lt;/span&gt;" style="whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
-          <mxGeometry x="780" y="234" width="130" height="30" as="geometry" />
+          <mxGeometry x="390" y="234" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="hCQ-R2_GtDcml7rR57lE-64" value="&lt;span style=&quot;background-color: rgb(213, 232, 212);&quot;&gt;COMPOSITION&amp;nbsp; of CONCERT&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="260" y="564" width="190" height="30" as="geometry" />
@@ -120,6 +111,9 @@
         </mxCell>
         <mxCell id="hCQ-R2_GtDcml7rR57lE-75" value="Date_Last_Performed" style="whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="650" y="654" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="u52wzcL5yVQG2jrXgqAC-1" value="&lt;span style=&quot;border-bottom: 1px dotted&quot;&gt;Concert_Number&lt;/span&gt;" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="650" y="174" width="130" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
@@ -182,7 +176,7 @@
               <mxPoint x="357" y="750" />
               <mxPoint x="920" y="750" />
               <mxPoint x="920" y="170" />
-              <mxPoint x="845" y="170" />
+              <mxPoint x="455" y="170" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -243,41 +237,8 @@
         <mxCell id="pif-Arr0RxehzhXQF_6d-26" value="Soloist_Name" style="whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="390" y="670" width="130" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="FWP7yhRj5Jo6IeXCoLR_-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="pif-Arr0RxehzhXQF_6d-27" target="pif-Arr0RxehzhXQF_6d-10" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="455" y="100" />
-              <mxPoint x="325" y="100" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="pif-Arr0RxehzhXQF_6d-27" value="&lt;span style=&quot;border-bottom: 1px dotted&quot;&gt;Month&lt;/span&gt;" style="whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
-          <mxGeometry x="390" y="120" width="130" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="FWP7yhRj5Jo6IeXCoLR_-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="pif-Arr0RxehzhXQF_6d-28" target="pif-Arr0RxehzhXQF_6d-11" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="585" y="90" />
-              <mxPoint x="455" y="90" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="pif-Arr0RxehzhXQF_6d-28" value="&lt;span style=&quot;border-bottom: 1px dotted&quot;&gt;Day&lt;/span&gt;" style="whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
-          <mxGeometry x="520" y="120" width="130" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="FWP7yhRj5Jo6IeXCoLR_-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;elbow=vertical;" parent="1" source="pif-Arr0RxehzhXQF_6d-29" target="pif-Arr0RxehzhXQF_6d-12" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="715" y="80" />
-              <mxPoint x="585" y="80" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="pif-Arr0RxehzhXQF_6d-29" value="&lt;span style=&quot;border-bottom: 1px dotted&quot;&gt;Year&lt;/span&gt;" style="whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
-          <mxGeometry x="650" y="120" width="130" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="pif-Arr0RxehzhXQF_6d-30" value="&lt;span style=&quot;border-bottom: 1px dotted&quot;&gt;Conductor_ID&lt;/span&gt;" style="whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
-          <mxGeometry x="780" y="120" width="130" height="30" as="geometry" />
+          <mxGeometry x="390" y="120" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="pif-Arr0RxehzhXQF_6d-31" value="&lt;span style=&quot;background-color: rgb(213, 232, 212);&quot;&gt;COMPOSITION&amp;nbsp; of CONCERT&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="260" y="280" width="190" height="30" as="geometry" />
@@ -354,6 +315,17 @@
         </mxCell>
         <mxCell id="pif-Arr0RxehzhXQF_6d-39" value="Date_Last_Performed" style="whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="650" y="580" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-t5DlKeG4oCHIiZzdhvY-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;fontColor=none;" edge="1" parent="1" source="RxXLHMVIqPNP4yro5MQM-1" target="pif-Arr0RxehzhXQF_6d-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="715" y="100" />
+              <mxPoint x="357" y="100" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RxXLHMVIqPNP4yro5MQM-1" value="&lt;span style=&quot;border-bottom: 1px dotted&quot;&gt;Concert_Number&lt;/span&gt;" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="650" y="30" width="130" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
