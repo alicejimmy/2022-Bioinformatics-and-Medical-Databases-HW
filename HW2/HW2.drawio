@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-23T14:26:38.004Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="4Dkgs71GX619h7_3emW6" version="20.5.1" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-10-23T14:28:05.999Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="Aw_kUAlcPoXM-4Co5e6x" version="20.5.1" type="github" pages="3">
   <diagram id="w4VHGzYsdSl-hZFod0cc" name="交響樂團資料庫1">
     <mxGraphModel dx="1117" dy="623" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -358,8 +358,8 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="SJy9jhn3qPyUU2WQi-D4" name="校務教務資料庫">
-    <mxGraphModel dx="539" dy="301" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+  <diagram id="SJy9jhn3qPyUU2WQi-D4" name="校務教務資料庫1">
+    <mxGraphModel dx="782" dy="436" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -405,14 +405,17 @@
         <mxCell id="sA5_Opk88bcWhU02DPUA-55" value="stud-name&lt;br/&gt; " style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="330" y="310" width="130" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="sA5_Opk88bcWhU02DPUA-58" value="&lt;span style=&quot;background-color: rgb(248, 206, 204);&quot;&gt;STUDENT&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="200" y="370" width="80" height="30" as="geometry" />
+        <mxCell id="sA5_Opk88bcWhU02DPUA-58" value="&lt;span style=&quot;background-color: rgb(248, 206, 204);&quot;&gt;PROFESSOR&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="200" y="370" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="sA5_Opk88bcWhU02DPUA-59" value="&lt;u&gt;stud-id&lt;/u&gt;" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="sA5_Opk88bcWhU02DPUA-59" value="&lt;u&gt;prof-id&lt;/u&gt;" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="200" y="400" width="130" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="sA5_Opk88bcWhU02DPUA-60" value="stud-name&lt;br/&gt; " style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="sA5_Opk88bcWhU02DPUA-60" value="prof-name&lt;br&gt; " style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="330" y="400" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CVDixEDcqnGa3l3ZE6AT-1" value="prof-rank&lt;br&gt; " style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="460" y="400" width="130" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
