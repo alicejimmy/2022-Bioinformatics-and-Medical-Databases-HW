@@ -1,1 +1,84 @@
-<mxfile host="app.diagrams.net" modified="2022-10-23T11:10:11.308Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="HklhDBmO65uLVI-OCrde" version="20.5.1" type="github"><diagram id="uqMnwNcO84PHQTYDhqqp" name="第1頁">1Znvj5owGMf/muflJUALpS+L4t2WXGbmLd67hUgVMhSHvVP3169AQYFu2ZKL1MSY9tvSlk+fH60CmmxPj0W0T57zmGfgWPEJ0BQch/iO/C6Fcy1g5NXCpkjjWrIvwiL9xZVoKfUtjfmh01HkeSbSfVdc5bsdX4mOFhVFfux2W+dZd9Z9tOEDYbGKsqG6TGORKNX26KXhiaebRE3tO6Ru2EZNZ/UmhySK8+OVhEJAkyLPRV3aniY8K9k1XOrnZn9obRdW8J34lwe+kuXT63yOrc/fp3NBJvj8Zf2gRnmPsjf1whC6wKYQ+BB6wCxgqstBnBsmxyQVfLGPVmX9KLcdUJCIbSZrtixGWbrZyfJKLowXUhiutJmWF4KfriS18keeb7kozrKLam3tQZkRaqgerzbFUlpytR9YaZGyg0079AWVLCha/0HO0ZKjFvhTCAkwH4IhOTmuNFxZCUZgaLtdhi2b0RhiDUMCQUUv9IFSoLMPZLjOd2KhBsIfZJfENKa+nqkPDJUGKgtNSDbLo1vrHI0cvT+PRl2GoyNs9vSePdo3jaku02AIWPmROZpWTm2UXbq4x/CWUTF/fyHrby+LZ8dl62z5+unn648HpLVLRoDalYEiCAIToqLtdMlhb2xyuhxteFTsnXMQHZuhd/9RkZjGVHfOkZGQQoAruBgoM8suB5ll9KioTdft9Y+Unu1PTQiL/cOiZ4+OTndzpsACoPiSUSRMX568XRMY4r4L3/IKrWeoy8pm5xbcM8Sb3vf0EO//Eu0i46AOM7bsH84gmBhPs2+iBqQZ8pc0I0cuXd0BRquyWzq/JnWPkXW8LsnxD+O27tQjr4CkyjEVPSYPPpMyFVGpIxMwYut2GGX18ot61Xb1twQKfwM=</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-10-24T14:29:03.927Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="aERrctgs_Fa3G5WFsqoZ" version="20.5.1" type="github" pages="2">
+  <diagram id="uqMnwNcO84PHQTYDhqqp" name="第1頁">
+    <mxGraphModel dx="782" dy="436" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="R7WHXPP40J_DPt7C4yOf-1" value="學校" style="whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+          <mxGeometry x="210" y="320" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="R7WHXPP40J_DPt7C4yOf-2" value="名稱" style="ellipse;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+          <mxGeometry x="150" y="240" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="R7WHXPP40J_DPt7C4yOf-4" value="編號" style="ellipse;whiteSpace=wrap;html=1;align=center;fontStyle=4;" parent="1" vertex="1">
+          <mxGeometry x="270" y="240" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="R7WHXPP40J_DPt7C4yOf-8" value="縣市" style="whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+          <mxGeometry x="210" y="150" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="R7WHXPP40J_DPt7C4yOf-9" value="名稱" style="ellipse;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+          <mxGeometry x="130" y="50" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="R7WHXPP40J_DPt7C4yOf-10" value="編號" style="ellipse;whiteSpace=wrap;html=1;align=center;fontStyle=4;" parent="1" vertex="1">
+          <mxGeometry x="280" y="50" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="R7WHXPP40J_DPt7C4yOf-12" value="人數" style="ellipse;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+          <mxGeometry x="540" y="540" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ovT7fUTSM25AflWXIqXk-3" value="科系" style="whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+          <mxGeometry x="120" y="460" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ovT7fUTSM25AflWXIqXk-4" value="名稱" style="ellipse;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+          <mxGeometry x="150" y="390" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ovT7fUTSM25AflWXIqXk-6" value="編號" style="ellipse;whiteSpace=wrap;html=1;align=center;fontStyle=4;" parent="1" vertex="1">
+          <mxGeometry x="270" y="390" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ovT7fUTSM25AflWXIqXk-8" value="年級" style="ellipse;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+          <mxGeometry x="280" y="540" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ovT7fUTSM25AflWXIqXk-10" value="學籍" style="whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+          <mxGeometry x="210" y="610" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ovT7fUTSM25AflWXIqXk-11" value="體系別" style="whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+          <mxGeometry x="470" y="320" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ovT7fUTSM25AflWXIqXk-13" value="名稱" style="ellipse;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+          <mxGeometry x="410" y="240" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ovT7fUTSM25AflWXIqXk-14" value="編號" style="ellipse;whiteSpace=wrap;html=1;align=center;fontStyle=4;" parent="1" vertex="1">
+          <mxGeometry x="530" y="240" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ovT7fUTSM25AflWXIqXk-16" value="id？" style="ellipse;whiteSpace=wrap;html=1;align=center;fontStyle=4;" parent="1" vertex="1">
+          <mxGeometry x="410" y="540" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ovT7fUTSM25AflWXIqXk-17" value="學/碩/博" style="whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+          <mxGeometry x="260" y="460" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ovT7fUTSM25AflWXIqXk-18" value="日/夜間" style="whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+          <mxGeometry x="400" y="460" width="100" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="jqE_bql6cUsSwO0d6cgs" name="第2頁">
+    <mxGraphModel dx="782" dy="436" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="G0KfeRnkyGSCKaWqfP7P-2" value="連鎖店名稱" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="350" y="210" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="G0KfeRnkyGSCKaWqfP7P-3" value="分店" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="350" y="350" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="G0KfeRnkyGSCKaWqfP7P-4" value="商品品項" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="560" y="270" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="G0KfeRnkyGSCKaWqfP7P-5" value="食材" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="800" y="270" width="100" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
