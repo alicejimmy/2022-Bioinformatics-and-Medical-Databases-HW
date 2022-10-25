@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-10-24T14:29:03.927Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="aERrctgs_Fa3G5WFsqoZ" version="20.5.1" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-10-25T06:46:17.986Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.127 Safari/537.36" etag="FKDVKFwIJ3jrAfJItBwL" version="20.5.1" type="github" pages="3">
   <diagram id="uqMnwNcO84PHQTYDhqqp" name="第1頁">
-    <mxGraphModel dx="782" dy="436" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="816" dy="1543" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -62,21 +62,41 @@
     </mxGraphModel>
   </diagram>
   <diagram id="jqE_bql6cUsSwO0d6cgs" name="第2頁">
-    <mxGraphModel dx="782" dy="436" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="816" dy="1543" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="G0KfeRnkyGSCKaWqfP7P-2" value="連鎖店名稱" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="G0KfeRnkyGSCKaWqfP7P-2" value="連鎖店名稱" style="whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="350" y="210" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="G0KfeRnkyGSCKaWqfP7P-3" value="分店" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="G0KfeRnkyGSCKaWqfP7P-3" value="分店" style="whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="350" y="350" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="G0KfeRnkyGSCKaWqfP7P-4" value="商品品項" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="G0KfeRnkyGSCKaWqfP7P-4" value="商品品項" style="whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="560" y="270" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="G0KfeRnkyGSCKaWqfP7P-5" value="食材" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="G0KfeRnkyGSCKaWqfP7P-5" value="食材" style="whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="800" y="270" width="100" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="8OjuDW2heZ1BZlMZUBcR" name="第3頁">
+    <mxGraphModel dx="816" dy="374" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Y2k7tRtUImkPgSpOa7j2-1" value="宗教名稱" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="400" y="1410" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Y2k7tRtUImkPgSpOa7j2-2" value="主要祭祀神明" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="200" y="1500" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Y2k7tRtUImkPgSpOa7j2-3" value="寺廟名稱" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="400" y="1580" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Y2k7tRtUImkPgSpOa7j2-4" value="主管機關" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="600" y="1580" width="100" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
