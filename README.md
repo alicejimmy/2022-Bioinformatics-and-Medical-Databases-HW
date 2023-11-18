@@ -21,7 +21,8 @@
   * 每一學生可以修許多的課程，每一課程也可許多學生來修，每一學生修的課程有一成績（grade）。
   * 學生對修某一位老師的課程可以給期中評量(mid-eval)與期末評量(final-eval)。
  ### Homework
- * HW1
- * HW2
- * HW3
- * Final Project
+ * HW1：ER Model
+ * HW2：Relational Schema
+ * HW3：Relational Algebra
+ * Final Project：宗教及宗教活動資料庫
+
